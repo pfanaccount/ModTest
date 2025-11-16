@@ -1,0 +1,13 @@
+{
+  "itemGroup.modtest": "Example Mod Tab",
+  "block.modtest.example_block": "Example Block",
+  "item.modtest.example_item": "Example Item",
+
+  "modtest.configuration.title": "Mod Test Configs",
+  "modtest.configuration.section.modtest.common.toml": "Mod Test Configs",
+  "modtest.configuration.section.modtest.common.toml.title": "Mod Test Configs",
+  "modtest.configuration.items": "Item List",
+  "modtest.configuration.logDirtBlock": "Log Dirt Block",
+  "modtest.configuration.magicNumberIntroduction": "Magic Number Text",
+  "modtest.configuration.magicNumber": "Magic Number"
+}
